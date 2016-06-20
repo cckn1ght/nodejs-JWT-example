@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-JWT-example",
+  "version": "1.0.0",
+  "description": "Example app following https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.0.1",
+    "mongoose": "^4.5.1",
+    "morgan": "^1.7.0"
+  }
+}
